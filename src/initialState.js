@@ -3,7 +3,7 @@ const intialState = {
    accounts: [
         {
     id: "1",
-    "name": "Riste",
+    "name": "Dejan",
     "phone": "555-555-5555",
     "email": "riste@example.com",
 }],
